@@ -20,9 +20,7 @@
 
 
 ### Environment and Dependencies
-Code was tested using Python 3.8 with PyTorch 1.9.1 and MinkowskiEngine 0.5.4 on Ubuntu 20.04 with CUDA 10.2.
-Note: CUDA 11.1 is not recommended as there are some issues with MinkowskiEngine 0.5.4 on CUDA 11.1. 
-
+Code was tested using Python 3.8 with PyTorch 1.9.0  on Ubuntu 18.04 with CUDA 11.7.
 
 ### Datasets
 
