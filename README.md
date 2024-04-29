@@ -5,8 +5,6 @@
 * The paper is currently under review at ISPRS Journal of Photogrammetry and Remote Sensing.
 * The link to the paper will be updated upon formal publication.
 
-#### China University of Mining and Technology
-
 ### Introduction
  The paper presents a lightweight and rotation-invariant place recognition network, named **LR-Net**, designed to handle large-scale raw point clouds. 
  
