@@ -4,7 +4,7 @@ Index=0
 Training_dataset=Datasets[Index]
 if Training_dataset == 'Oxford':
     dataset_folder = '/media/joey/DATASET/PNVLAD_Dataset/benchmark_datasets/'
-    train_file = 'spv_training_queries_baseline.pickle'
+    train_file = 'training_queries_baseline.pickle'
 elif Training_dataset == 'MulRan':
     dataset_folder = '/media/joey/DATASET/MulRan'
     train_file = 'training_queries_baseline.pickle'
@@ -40,7 +40,7 @@ drop=0.1
 
 ''' ## Train ##'''
 Resume=False
-weights_path='/home/joey/Linux-Project-File/LWR-Net/model_v2/weights'
+weights_path='/home/joey/Linux-Project-File/LR-Net/model_v2/weights'
 
 
 lr = 1e-3
