@@ -2,8 +2,7 @@
 
 
 ## [Paper]: 
-* The paper is currently under review at ISPRS Journal of Photogrammetry and Remote Sensing.
-* The link to the paper will be updated upon formal publication.
+* Paper: [Lightweight and rotation-invariant place recognition network for large-scale raw point clouds](https://doi.org/10.1016/j.isprsjprs.2024.02.007) 
 
 ### Introduction
  The paper presents a lightweight and rotation-invariant place recognition network, named **LR-Net**, designed to handle large-scale raw point clouds. 
@@ -48,4 +47,7 @@ We chose six sequences with revisits (00, 02, 05, 06, 07, and 08) as unseen test
 
 ## Results
 The Training an Testing procedures, as well as experimental results, will be updated after the formal publication of the paper.
+
+## Acknowledgement
+Some of our code refers to [PointNetVLAD](https://github.com/mikacuy/pointnetvlad)
 
