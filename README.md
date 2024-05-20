@@ -2,7 +2,7 @@
 
 
 ## [Paper]: 
-* Paper: [Lightweight and rotation-invariant place recognition network for large-scale raw point clouds](https://doi.org/10.1016/j.isprsjprs.2024.02.007) 
+* Paper: [Lightweight and rotation-invariant place recognition network for large-scale raw point clouds](https://doi.org/10.1016/j.isprsjprs.2024.04.030) 
 
 ### Introduction
  The paper presents a lightweight and rotation-invariant place recognition network, named **LR-Net**, designed to handle large-scale raw point clouds. 
