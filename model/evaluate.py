@@ -114,7 +114,7 @@ def evaluate_dataset(model, device, database_sets, query_sets, silent=True):
 '''
 #### Jitter and DownSample ####
 '''
-def jitter_pointcloud(cloud_data, sigma=0.0005, clip=0.0025):
+def jitter_pointcloud(cloud_data, sigma=0.05, clip=0.1):
     # 随机给点云增加噪声
     N, C = cloud_data.shape
     assert (clip > 0)
